@@ -6,4 +6,4 @@ RAIEN - Programmer, Designer
 MIKEE - Artist, Designer
 AC DAVID - Level Design
 
-To learn programming, I programmed: player movement, interaction, UI, dialogue.
+To learn programming, I programmed: player movement, interaction, UI, dialogue, and scene change.
